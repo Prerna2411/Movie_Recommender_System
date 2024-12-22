@@ -1,0 +1,3 @@
+The Movie Recommender System utilizes a content-based recommendation model to suggest movies similar to the one selected by the user. 
+The application displays the recommended movies along with their corresponding posters retrieved from the OMDb API.In the Movie Recommender System, cosine similarity is used to measure how similar two movies are based on their features (e.g., genres, cast, ratings,title,id etc.).After calculating the cosine similarity between the selected movie and all others, the movies are sorted based on their similarity scores in descending order. 
+The movies with the highest similarity scores are considered the most similar to the selected movie.
