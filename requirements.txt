@@ -1,6 +1,6 @@
 
 
-setuptools>=42
+setuptools>=65
 wheel
 
 streamlit==1.32.2
